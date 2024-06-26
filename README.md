@@ -1,0 +1,2 @@
+# MonkeyTyper-
+Hack for MonkeyTyper
